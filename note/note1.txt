@@ -1,0 +1,91 @@
+Swing
+Advance Day: 1368
+Date: 04/09/2024
+Temperature: 76
+Weather: Sunny
+
+Previous Advance: 1
+Previous Ring Built: 1
+Previous Threaded: 0
+Previous Tensioned: 0
+Previous Grouted: 0
+
+My Advance: 6
+My Ring Built: 6
+My Threaded: 0
+My Tensioned: 0
+My Grouted: 0
+
+Start Station: 218+34.16
+End Station: 218+63.65
+
+TSG 1:  1490
+TSG 2:  1430
+EP2: 420
+HBW: 350
+
+Office Staff: 1
+Field Staff: 2
+Safety: 1
+
+Foreman: 1
+Operators: 6
+Laborers: 8
+Cr Operators: 1
+Mechanics: 3
+Oiler: 1
+Gas Tester: 1
+Surveyor: 1
+
+WA Rasic: 0
+Tensa: 0
+TEI: 2
+Sixense: 0
+Landmark: 0
+Guard: 1
+District: 1
+HK: 0
+Ballard: 0
+
+Description: 
+TBM/Tunnel
+Advance: 4351, 4352*, 4353, 4354, 4355, 4356
+Ring Build: 4351, 4352*, 4353, 4354, 4355, 4356
+
+-Performed vacuum test on erector and segment hoist both passed.
+-Performed daily mechanical TBM checks.
+-Drilled grout ports 1 and 3.
+-Extended slurry at 4352, and all utilities. 
+-R/R oil from oiler at T/S pump #2.
+-R/R oil from oiler at EP2 pump.
+-R/R oil from oiler at HBW pump.
+-Greased P1.5 bearing impeller/motor.
+-Checked oiler at P2.1.
+-Checked oil level and oiler at P1.5.
+-Checked oil level waste water pump.
+-Checked oil level dewatering pump.
+-Started moving the navigation laser forward. 
+-Cleaned the building area throughout the night.
+-Repaired waste pump for filter press #3.
+-Cleaned wet silo for filter press #1 (ongoing).
+-Brought in 3 totes of polymer.
+-Tail Seal Grease average: 486mm per push ( 68% of a barrel). 
+
+50% 214/ 50% Alcohol 
+
+4351: 375.42 gallons
+4352: 410.98 gallons
+4353: 316.40 gallons
+4354: 297.2 gallons
+4355: 282.6 gallons
+4356: 338.8 gallons
+
+
+
+@
+
+
+Image 1. Cleaning  Out The Building Area Invert 
+
+
+
